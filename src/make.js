@@ -1,6 +1,6 @@
 function make() {
-    var arr = Array.from(arguments);
-    var inner = function (b) {
+    let arr = Array.from(arguments);
+    let inner = function (b) {
         if (typeof b !== 'function') {
             let res = Array.from(arguments);
             let res1 = arr;
