@@ -1,0 +1,27 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "Rsschool-codejam",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olgaluk/rsschool-codejam.git"
+  },
+  "author": "olgaluk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olgaluk/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/olgaluk/rsschool-codejam#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "dependencies": {
+    "install-peerdeps": "^1.9.0"
+  }
+}
